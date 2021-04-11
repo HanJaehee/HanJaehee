@@ -3,7 +3,6 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=HanJaehee)](https://github.com/HanJaehee)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HanJaehee&layout=compact)](https://github.com/HanJaehee)
 <!--
 **HanJaehee/HanJaehee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
