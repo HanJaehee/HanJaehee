@@ -1,5 +1,5 @@
 
-- 🌱 I’m currently learning Java, Python, JavsScript, Spring, Cloud, Docker
+- 🌱 I’m currently learning Java, Python, JavsScript, Spring, AWS, Docker
 
 - 📫 How to reach me: bestapplication@naver.com
 
