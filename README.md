@@ -2,6 +2,7 @@
 - 🌱 I’m currently learning Java, Python, JavsScript, Spring, AWS, Docker
 
 - 📫 How to reach me: bestapplication@naver.com
+- My Blog : 👉[BLOG](https://hanjaehee.github.io)
 
 - My Service : 👉[POST-IT](https://post-it.site), 👉[POST-IT Notion](https://www.notion.so/POST-IT-156636b1c0ec4d8fabeeb4fd1470fb6a) 
 
