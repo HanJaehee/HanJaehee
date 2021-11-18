@@ -2,9 +2,9 @@
 - 🌱 I’m currently learning Java, Python, JavsScript, Spring, AWS, Docker
 
 - 📫 How to reach me: bestapplication@naver.com
-- My Blog : 👉[BLOG](https://hanjaehee.github.io)
+- My Blog : 👉[BLOG](https://velog.io/@hind_sight)
 
-- My Service : 👉[POST-IT](https://post-it.site), 👉[POST-IT Notion](https://www.notion.so/POST-IT-156636b1c0ec4d8fabeeb4fd1470fb6a) 
+- My Service : 👉[dev-Nine](https://devnine.kr)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=HanJaehee)](https://github.com/HanJaehee)
 
